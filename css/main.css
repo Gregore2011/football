@@ -1,0 +1,24 @@
+.word {
+	font-weight: bold;
+	font-size: 23px;
+}
+
+body{
+	background-color: green;
+	background-position: center;
+
+	-webkit-background-size: cover;
+
+	background-size: cover;
+
+	text-align: center;  
+}
+
+.img {
+	margin-width: 70%;
+}
+
+
+
+
+
